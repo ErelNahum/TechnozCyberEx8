@@ -1,0 +1,7 @@
+CEO:$2b$12$UoiSnW.gTGwrOfAjsyMIrOHXNpxxlPUl3mkX/DOCtwutun1Til8Tu:doofen,venessa,bob,alice,dora,swiper
+doofen:$2b$12$nFrHvxwRez4F/GS7rzkXPe.btoXHMBNmDwXVwN1/QhZ3B/hd27zcW:dora,swiper
+venessa:$2b$12$TZj0a9EjaPoYJQjlnOEyDeVtiYEMyYInEjP.9OgkWRZI0T0Lqckf.:doofen,bob,alice
+bob:$2b$12$KJl/Ga1w/5JPNQAfMumAqOFnC9k.pKIEJ/SHMME7P6MXbZcBOmec2:doofen,venessa,dora
+alice:$2b$12$mEeZrkVWIDgZPX/ZnjrTDemMM7qRiddHEV89zNHRRA1XD4rnYBpNO:CEO,venessa
+dora:$2b$12$8Bf2MCYTrv.Y7vn7pMwIo.YpNKtxT9tlEpbn354RdAjzexozphHfy:swiper,bob
+swiper:$2b$12$JKIW9kv.dgCBvmeUA4FVP.HPqCDOkTz4C4BXDYc9g4YgR6MEfFAwa:dora
